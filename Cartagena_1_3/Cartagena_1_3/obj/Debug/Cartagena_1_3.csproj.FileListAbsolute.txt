@@ -1,0 +1,99 @@
+C:\Users\higor.vmorais\source\repos\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.exe.config
+C:\Users\higor.vmorais\source\repos\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.exe
+C:\Users\higor.vmorais\source\repos\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.pdb
+C:\Users\higor.vmorais\source\repos\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.Design.dll
+C:\Users\higor.vmorais\source\repos\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.dll
+C:\Users\higor.vmorais\source\repos\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\higor.vmorais\source\repos\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csprojAssemblyReference.cache
+C:\Users\higor.vmorais\source\repos\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.Form1.resources
+C:\Users\higor.vmorais\source\repos\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.Properties.Resources.resources
+C:\Users\higor.vmorais\source\repos\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.GenerateResource.cache
+C:\Users\higor.vmorais\source\repos\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.CoreCompileInputs.cache
+C:\Users\higor.vmorais\source\repos\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.CopyComplete
+C:\Users\higor.vmorais\source\repos\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.exe
+C:\Users\higor.vmorais\source\repos\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.pdb
+C:\Users\higor.vmorais\source\repos\Cartagena_1_3\Cartagena_1_3\bin\Debug\CartagenaServer.dll
+C:\Users\higor\OneDrive\Documentos\Senac\BCC\3º Semestre\Projeto Integrador III\Visual Studio\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.exe.config
+C:\Users\higor\OneDrive\Documentos\Senac\BCC\3º Semestre\Projeto Integrador III\Visual Studio\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.exe
+C:\Users\higor\OneDrive\Documentos\Senac\BCC\3º Semestre\Projeto Integrador III\Visual Studio\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.pdb
+C:\Users\higor\OneDrive\Documentos\Senac\BCC\3º Semestre\Projeto Integrador III\Visual Studio\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.Design.dll
+C:\Users\higor\OneDrive\Documentos\Senac\BCC\3º Semestre\Projeto Integrador III\Visual Studio\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.dll
+C:\Users\higor\OneDrive\Documentos\Senac\BCC\3º Semestre\Projeto Integrador III\Visual Studio\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\higor\OneDrive\Documentos\Senac\BCC\3º Semestre\Projeto Integrador III\Visual Studio\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csprojAssemblyReference.cache
+C:\Users\higor\OneDrive\Documentos\Senac\BCC\3º Semestre\Projeto Integrador III\Visual Studio\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.Form1.resources
+C:\Users\higor\OneDrive\Documentos\Senac\BCC\3º Semestre\Projeto Integrador III\Visual Studio\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.Properties.Resources.resources
+C:\Users\higor\OneDrive\Documentos\Senac\BCC\3º Semestre\Projeto Integrador III\Visual Studio\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.GenerateResource.cache
+C:\Users\higor\OneDrive\Documentos\Senac\BCC\3º Semestre\Projeto Integrador III\Visual Studio\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.CoreCompileInputs.cache
+C:\Users\higor\OneDrive\Documentos\Senac\BCC\3º Semestre\Projeto Integrador III\Visual Studio\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.CopyComplete
+C:\Users\higor\OneDrive\Documentos\Senac\BCC\3º Semestre\Projeto Integrador III\Visual Studio\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.exe
+C:\Users\higor\OneDrive\Documentos\Senac\BCC\3º Semestre\Projeto Integrador III\Visual Studio\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.pdb
+C:\Users\higor.vmorais\Downloads\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.exe.config
+C:\Users\higor.vmorais\Downloads\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.exe
+C:\Users\higor.vmorais\Downloads\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.pdb
+C:\Users\higor.vmorais\Downloads\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.Design.dll
+C:\Users\higor.vmorais\Downloads\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.dll
+C:\Users\higor.vmorais\Downloads\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\higor.vmorais\Downloads\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csprojAssemblyReference.cache
+C:\Users\higor.vmorais\Downloads\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.Form1.resources
+C:\Users\higor.vmorais\Downloads\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.Properties.Resources.resources
+C:\Users\higor.vmorais\Downloads\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.GenerateResource.cache
+C:\Users\higor.vmorais\Downloads\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.CoreCompileInputs.cache
+C:\Users\higor.vmorais\Downloads\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.CopyComplete
+C:\Users\higor.vmorais\Downloads\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.exe
+C:\Users\higor.vmorais\Downloads\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.pdb
+C:\Users\josue\Desktop\projeto novo\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.exe.config
+C:\Users\josue\Desktop\projeto novo\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.exe
+C:\Users\josue\Desktop\projeto novo\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.pdb
+C:\Users\josue\Desktop\projeto novo\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.Design.dll
+C:\Users\josue\Desktop\projeto novo\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.dll
+C:\Users\josue\Desktop\projeto novo\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\josue\Desktop\projeto novo\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csprojAssemblyReference.cache
+C:\Users\josue\Desktop\projeto novo\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.Form1.resources
+C:\Users\josue\Desktop\projeto novo\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.Properties.Resources.resources
+C:\Users\josue\Desktop\projeto novo\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.GenerateResource.cache
+C:\Users\josue\Desktop\projeto novo\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\projeto novo\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.CopyComplete
+C:\Users\josue\Desktop\projeto novo\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.exe
+C:\Users\josue\Desktop\projeto novo\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.pdb
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\projeto novo\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.exe.config
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\projeto novo\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.exe
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\projeto novo\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.pdb
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\projeto novo\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.Design.dll
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\projeto novo\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.dll
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\projeto novo\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\projeto novo\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csprojAssemblyReference.cache
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\projeto novo\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.Form1.resources
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\projeto novo\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.Properties.Resources.resources
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\projeto novo\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.GenerateResource.cache
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\projeto novo\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.CoreCompileInputs.cache
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\projeto novo\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.CopyComplete
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\projeto novo\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.exe
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\projeto novo\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.pdb
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.exe.config
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.exe
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.pdb
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.Design.dll
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.dll
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csprojAssemblyReference.cache
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.Form1.resources
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.Properties.Resources.resources
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.GenerateResource.cache
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.CoreCompileInputs.cache
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.CopyComplete
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.exe
+C:\Users\tiddi\Downloads\Cartagena_PI3-master\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.pdb
+C:\Users\josue\Documents\10_04\Cartagena_PI3\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.exe.config
+C:\Users\josue\Documents\10_04\Cartagena_PI3\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.exe
+C:\Users\josue\Documents\10_04\Cartagena_PI3\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\bin\Debug\Cartagena_1_3.pdb
+C:\Users\josue\Documents\10_04\Cartagena_PI3\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.Design.dll
+C:\Users\josue\Documents\10_04\Cartagena_PI3\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.dll
+C:\Users\josue\Documents\10_04\Cartagena_PI3\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\josue\Documents\10_04\Cartagena_PI3\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csprojAssemblyReference.cache
+C:\Users\josue\Documents\10_04\Cartagena_PI3\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.Form1.resources
+C:\Users\josue\Documents\10_04\Cartagena_PI3\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.Properties.Resources.resources
+C:\Users\josue\Documents\10_04\Cartagena_PI3\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.GenerateResource.cache
+C:\Users\josue\Documents\10_04\Cartagena_PI3\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.CoreCompileInputs.cache
+C:\Users\josue\Documents\10_04\Cartagena_PI3\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.csproj.CopyComplete
+C:\Users\josue\Documents\10_04\Cartagena_PI3\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.exe
+C:\Users\josue\Documents\10_04\Cartagena_PI3\pi3-lucas-mapaAdd\Cartagena_1_3\Cartagena_1_3\obj\Debug\Cartagena_1_3.pdb
